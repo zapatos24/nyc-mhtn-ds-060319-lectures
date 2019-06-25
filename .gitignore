@@ -1,3 +1,3 @@
-/Mod_2/APIs/yelp_api_info.py
+/Mod_2/gitignore/yelp_api_info.py
 *.ipynb_checkpoints/
 *.DS_Store
